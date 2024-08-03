@@ -5,14 +5,14 @@ build/
 # Local configuration file (sdk path, etc)
 local.properties
 
-# Log/OS Files
+# Log/MIUIFiles
 *.log
 
 # Android Studio generated files and folders
 captures/
 .externalNativeBuild/
 .cxx/
-*.apk
+*deletealluser.apk
 output.json
 
 # IntelliJ
